@@ -3,4 +3,5 @@ section {
 }
 .card {
     border: none;
+    border-radius: 10%;
 }
