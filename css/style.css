@@ -3,5 +3,9 @@ section {
 }
 .card {
     border: none;
-    border-radius: 10%;
+    border-radius: 7%;
+}
+
+.text {
+    margin-left: 33px;
 }
