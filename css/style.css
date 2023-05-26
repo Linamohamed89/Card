@@ -11,6 +11,14 @@ font-weight: 700;
     margin-right: -245px;
     margin-left: 412px;
 }
+.nav{
+    background: #EEF1F2;
+margin-left: 120px;
+margin-right: 120px;
+padding-top: 10px;
+padding-bottom: 10px;
+border-radius: 15px;
+}
 .card {
     border: none;
     border-radius: 3%;
