@@ -7,6 +7,10 @@ margin-left: 423px;
 font-size: 41px;
 font-weight: 700;
 }
+.text1{
+    margin-right: -245px;
+    margin-left: 412px;
+}
 .card {
     border: none;
     border-radius: 3%;
