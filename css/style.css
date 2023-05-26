@@ -9,3 +9,6 @@ section {
 .text {
     margin-left: 33px;
 }
+.card-title{
+    font-weight: 600;
+}
